@@ -2,7 +2,7 @@
 ![5fxny70880xb1](https://github.com/ujjwxl/ujjwxl/assets/128631648/1e709b7a-3449-4a96-ae2d-c40065e4e112)
 
 <h1 align="center">Hi 👋, I'm Ujjwal</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">Full Stack Developer | Flutter App Developer</h3>
 
 - 🔭 I’m currently working on myself?
 
